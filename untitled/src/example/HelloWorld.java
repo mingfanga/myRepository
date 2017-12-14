@@ -17,12 +17,8 @@ public class HelloWorld {
     Endpoint.publish(address, implementor);
     System.out.print("111");
 
+    System.out.print("123");
 
-
-
-
-
-    fffj
   }
 
 }
