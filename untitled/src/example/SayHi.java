@@ -6,6 +6,7 @@ public class SayHi {
         System.out.println(result);
         System.out.println("I'm trying to deal it.");
         System.out.println("add 123.");
+        System.out.println("add 1234");
         return result;
     }
 }
